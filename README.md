@@ -1,7 +1,7 @@
 q2a-amazon-omakase
 ==================
 
-A Q2A plugin that displays the Amazon Omakase contextual advert to monetize your web site
+A Q2A plugin that displays the Amazon Omakase contextual advert to monetize your Q2A web site
 
 You must already have an Amazon Associates account and the tracking ID you wish to use. The plugin will then display the Amazon Omakase advert that shows contextual ads based on your web site. 
 
